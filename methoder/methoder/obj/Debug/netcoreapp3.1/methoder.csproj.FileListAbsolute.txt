@@ -1,0 +1,13 @@
+C:\Users\khlop\OneDrive\Documents\GitHub\programering2\methoder\methoder\bin\Debug\netcoreapp3.1\methoder.exe
+C:\Users\khlop\OneDrive\Documents\GitHub\programering2\methoder\methoder\bin\Debug\netcoreapp3.1\methoder.deps.json
+C:\Users\khlop\OneDrive\Documents\GitHub\programering2\methoder\methoder\bin\Debug\netcoreapp3.1\methoder.runtimeconfig.json
+C:\Users\khlop\OneDrive\Documents\GitHub\programering2\methoder\methoder\bin\Debug\netcoreapp3.1\methoder.runtimeconfig.dev.json
+C:\Users\khlop\OneDrive\Documents\GitHub\programering2\methoder\methoder\bin\Debug\netcoreapp3.1\methoder.dll
+C:\Users\khlop\OneDrive\Documents\GitHub\programering2\methoder\methoder\bin\Debug\netcoreapp3.1\methoder.pdb
+C:\Users\khlop\OneDrive\Documents\GitHub\programering2\methoder\methoder\obj\Debug\netcoreapp3.1\methoder.csprojAssemblyReference.cache
+C:\Users\khlop\OneDrive\Documents\GitHub\programering2\methoder\methoder\obj\Debug\netcoreapp3.1\methoder.AssemblyInfoInputs.cache
+C:\Users\khlop\OneDrive\Documents\GitHub\programering2\methoder\methoder\obj\Debug\netcoreapp3.1\methoder.AssemblyInfo.cs
+C:\Users\khlop\OneDrive\Documents\GitHub\programering2\methoder\methoder\obj\Debug\netcoreapp3.1\methoder.csproj.CoreCompileInputs.cache
+C:\Users\khlop\OneDrive\Documents\GitHub\programering2\methoder\methoder\obj\Debug\netcoreapp3.1\methoder.dll
+C:\Users\khlop\OneDrive\Documents\GitHub\programering2\methoder\methoder\obj\Debug\netcoreapp3.1\methoder.pdb
+C:\Users\khlop\OneDrive\Documents\GitHub\programering2\methoder\methoder\obj\Debug\netcoreapp3.1\methoder.genruntimeconfig.cache
