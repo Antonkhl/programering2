@@ -7,7 +7,6 @@ namespace Laboration1OOP
         static void Main(String[] args)
         {
             String awnser1 = "yes";
-            String awnser2 = "no";
 
             Kund _nykund = new Kund();
 
@@ -24,34 +23,47 @@ namespace Laboration1OOP
 
             Produkt customerMilk = new Milk();
             Produkt customerEgg = new Egg();
-            Produkt customerEgg = new Bread();
+            Produkt customerBread = new Bread();
 
-            Console.WriteLine("Do you want milk?")
-            String awnser = Console.ReadLine();
+            Console.WriteLine("Do you want milk?");
+            String awnserA = Console.ReadLine();
 
-            if(awnser == awnser1)
+            if (awnserA == awnser1)
             {
                 customerMilk.productWant();
+                Console.WriteLine("Do you want milk?");
             }
 
-            if (awnser == awnser2)
-            {
-                customerMilk.productWant();
-            }
-
-            Console.WriteLine("Do you want Egg?")
-            String awnser = Console.ReadLine();
+           
+            Console.WriteLine("Do you want Egg?");
+            String awnserB = Console.ReadLine();
 
 
-            if (awnser == awnser1)
+            if (awnserB == awnser1)
             {
                 customerEgg.productWant();
             }
 
-            if (awnser == awnser2)
+
+            Console.WriteLine("Do you want Bread?");
+            String awnserC = Console.ReadLine();
+
+
+            if (awnserC == awnser1)
             {
-                customerMilk.productWant();
+                customerBread.productWant();
+              
             }
+
+            Console.WriteLine("-----------------------------");
+
+          
+
+
+
+
+
+
 
 
 
@@ -63,3 +75,4 @@ namespace Laboration1OOP
 
         }
     }
+}

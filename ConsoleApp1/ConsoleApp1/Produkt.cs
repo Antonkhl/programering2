@@ -8,7 +8,7 @@ namespace Laboration1OOP
     class Produkt
     {
 
-   public virtual void productWant()
+        public virtual void productWant()
         {
             Console.WriteLine("This customer dosent want anything");
         }
@@ -27,7 +27,7 @@ namespace Laboration1OOP
     {
         public override void productWant()
         {
-            Console.WriteLine("This customer wants Egg")
+            Console.WriteLine("This customer wants Egg");
         }
     }
 
@@ -35,7 +35,7 @@ namespace Laboration1OOP
     {
         public override void productWant()
         {
-            Console.WriteLine("This customer wants Bread")
+            Console.WriteLine("This customer wants Bread");
         }
     }
 
